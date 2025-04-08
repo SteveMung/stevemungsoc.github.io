@@ -12,7 +12,7 @@ address:
   postcode: '02116'
   country: United States
 
-summary: Mapping Opinion Polarization: Belief Networks and Political Environment across 89 Countries in 2017-2022
+summary: 'Mapping Opinion Polarization: Belief Networks and Political Environment across 89 Countries in 2017-2022'
 abstract: 'Cooperating with Yizhao Song and Prof. Felicia F. Tian. Our study aims to construct unified metrics for both dimensions of polarization through network analysis to conduct a cross-national comparison of opinion polarization and further explore the influence of the political environment on opinion polarization. We use Belief Network Analysis method, dimensionality reduction techniques for network metrics, and OLS and Fixed-Effects models to achieve this.'
 
 # Talk start and end times.
