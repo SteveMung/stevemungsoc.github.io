@@ -33,7 +33,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  image: 'essbanner.jpg'
+  caption: 'ESS 2025 Conference'
   focal_point: Right
 
 #links:
