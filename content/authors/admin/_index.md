@@ -55,8 +55,8 @@ interests:
 education:
   - area: BA English Language and Literature
     institution: Fudan University
-    date_start: 2022-9-1
-    date_end: 2027-6-30
+    date_start: 2022-09-01
+    date_end: 2027-06-30
     summary: |
       I study English Language and Literature in my undergraduate years as my major at Fudan University, China. However, I spend most of my time on my "minor"--sociology. I am expected to graduate in year 2027. 
       
