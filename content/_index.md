@@ -35,11 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm an undergraduate researcher in sociology who works mainly on the intersection of social networks, culture, cognition, and social structure. I crave to become a computational sociologist and am working hard to achieve this. I expect to apply to a grad school in year 2026 and plan to start this new journey in year 2027. 
         
-        Please reach out to collaborate 😃
+        I'm open to and interested in a wide range of advanced quantitative and computational methods. I'm also planning to develop the field (and skills, of course) of LLMs-as-agents in the near future (probably) to incorporate AI into computational sociology and social networks.
+        
+        If you're also interested, or if you like my works (which are all currently in progress right now, so I don't think you would 😜), please feel free to reach out to collaborate 🐕
+
     design:
       columns: '1'
   - block: collection
