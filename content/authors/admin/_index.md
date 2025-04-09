@@ -111,15 +111,15 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: fa-r
+        icon: code
       - name: Python
         description: ''
         percent: 20
-        icon: python
+        icon: code
       - name: STATA
         description: ''
         percent: 80
-        icon: fa-bars-progress
+        icon: code
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,7 +135,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: fa-dumbbell
+        icon: code
 
 languages:
   - name: Chinese
@@ -149,13 +149,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# awards:
 #  - title: 
 #    url: 
 #    date: ''
 #    awarder: 
 #    icon: 
 #    summary: |
-awards:
+
 
 ---
 
