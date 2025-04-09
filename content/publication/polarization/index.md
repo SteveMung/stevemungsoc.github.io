@@ -6,7 +6,7 @@ title: 'Mapping Opinion Polarization: Belief Networks and Political Environment 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yizhao
+  - Yizhao Song
   - Felicia F. Tian
 
 # Author notes (optional)
