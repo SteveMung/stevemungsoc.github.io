@@ -2,7 +2,7 @@
 title: "The Moon or Sixpence? A Network Approach into Work Value Stratification"
 authors:
 - admin
-date: "2025-04-09T00:00:00Z"
+date: "2025-08-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
