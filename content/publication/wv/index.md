@@ -14,8 +14,8 @@ publishDate: "2025-04-09T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
-publication_short: "Working Paper"
+publication: "*Working Paper*"
+publication_short: "*Working Paper*"
 
 abstract: Drawing data from GSS 2016 work orientation module, I construct a work value similarity network. Using exponential family random graph models (ERGMs), I infer the stratification structure of work values and its socio-demographic causes. Further, with the distance matrix I develop a Relative Value Stance variable to measure one's relative position in this cultural/value spectrum in respect of their distance to their own ingrained class culture and their upward affinity. My preliminary findings is that the logic lower- and working-class people recognize and make use of work value is distinct from middle- and upper-class people, probably determined by some aspects of social structure.
 
