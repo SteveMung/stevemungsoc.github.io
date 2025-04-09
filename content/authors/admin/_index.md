@@ -111,15 +111,15 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: code
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 20
-        icon: code
+        icon: code-bracket
       - name: STATA
         description: ''
         percent: 80
-        icon: code
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,7 +135,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: code
+        icon: code-bracket
 
 languages:
   - name: Chinese
