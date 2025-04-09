@@ -111,7 +111,7 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: r
+        icon: fa-r
       - name: Python
         description: ''
         percent: 20
@@ -119,7 +119,7 @@ skills:
       - name: STATA
         description: ''
         percent: 80
-        icon: bars-progress
+        icon: fa-bars-progress
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,7 +135,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: dumbbell
+        icon: fa-dumbbell
 
 languages:
   - name: Chinese
@@ -143,7 +143,7 @@ languages:
   - name: English
     percent: 90
   - name: French
-    percent: 25
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
