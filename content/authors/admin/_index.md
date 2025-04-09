@@ -46,6 +46,22 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-4840-6025
 
+# For work:
+#  - position: 
+#    company_name: 
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 
+#    date_end: ''
+#    summary: |
+#
+#  - position: 
+#    company_name: 
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 
+#    date_end: 
+#    summary: |
 interests:
   - Social Network Analysis
   - Computational Cultural Sociology
@@ -86,21 +102,6 @@ education:
       - Linear Regression (graduate level, instructor: Prof. Ted Mouw)
       - Social Stratification (instructor: Dr. Tania Jenkins)
 work:
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: ''
-    summary: |
-
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,15 +111,15 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: rstudio-svgrepo-com.svg
+        icon: r
       - name: Python
         description: ''
-        percent: 30
-        icon: code-bracket
+        percent: 20
+        icon: python
       - name: STATA
         description: ''
         percent: 80
-        icon: stata-svgrepo-com.svg
+        icon: bars-progress
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -134,7 +135,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: badminton
+        icon: dumbbell
 
 languages:
   - name: Chinese
@@ -148,28 +149,13 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#  - title: 
+#    url: 
+#    date: ''
+#    awarder: 
+#    icon: 
+#    summary: |
 awards:
-  - title: 
-    url: 
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
-
-  - title: 
-    url:
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
-
-  - title: ''
-    url: 
-    certificate_url: 
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
 
 ---
 
