@@ -23,7 +23,7 @@ abstract: Drawing data from GSS 2016 work orientation module, I construct a work
 summary: Using the other-way projection of belief networks, I construct a work value similarity network, in which I can observe the stratification structure of work values and extract every node's relative position in the value spectrum. I try to explain the detailed mechanisms behind them.
 
 tags:
-- Cultural Network
+- Cultural Networks
 - Work
 - Social Stratification
 
