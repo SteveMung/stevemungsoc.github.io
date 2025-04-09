@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lmmeng@unc.edu'
+    url: 'mailto:lmmeng@unc.edu'
     label: E-mail Me
   - icon: brands/x
     url: 
@@ -178,3 +178,5 @@ awards:
 Hi! I'm Steve Liming Meng. I'm currently an undergraduate student at Fudan University, China, and a global visiting student at UNC-Chapel Hill. I am now an independent sociological researcher and a network analyst. My research interests include social network analysis, computational culture, and social stratification. 
 
 I have been working on several research projects at both Fudan and UNC concerning opinion polarization, subjective class, work value, and cognition, using mainly social network analysis (belief network and its variants) methods and other quantitative/computational methods. I am now trying to explore the intersection between culture & cognition, social networks, and broader social identities and categories, and how LLMs may play a part in both these research processes and substantial cultural processes.
+
+When I’m not mapping belief networks or simulating cultural agents, you’ll probably find me singing along to Queen or vibing to some of Eason Chan’s Cantopops (I love this guy!). I’m a passionate singer—seriously, I sing every day, and I literally can't live without singing. My playlist ranges from Cantopop to Rock and Blues. Music keeps me grounded, expressive, and occasionally dramatic in the best way possible. I also love traveling and discovering the different rhythms of life around the world—both literally and metaphorically.
