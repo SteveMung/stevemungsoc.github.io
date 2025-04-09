@@ -36,6 +36,8 @@ summary: Using Belief Network approach and dimensionality reduction technique to
 
 tags:
   - Cultural Networks
+  - Opinion Polarization
+  - Cross-national Comparison
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,6 +46,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+#   conference-paper.pdf; cite.bib
 
 url_pdf: ''
 url_code: ''
@@ -87,5 +90,4 @@ slides: ''
 We utilize **Belief Network** approaches to conduct a cross-national comparison of different opinion polarization patterns. Following DellaPosta (2020), we come up with the 2-dimensional measure of polarization and link that with political factors of different countries using OLS and two-way fixed-effect (TWFE) models.
 
 ### Figure: Model-based Microsimulation Result
-
 ![Model-based Microsimulation result of the relationship between the two dimensions of polarization and the degree of party competition](second_image.png)
