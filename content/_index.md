@@ -39,7 +39,7 @@ sections:
         
         I'm open to and interested in a wide range of advanced quantitative and computational methods. I'm also planning to develop the field (and skills, of course) of LLMs-as-agents in the near future (probably) to incorporate AI into computational sociology and social networks.
         
-        If you're also interested, or if you like my works (which are all currently in progress right now, so I don't think you would 😜), please feel free to reach out to collaborate 🐕
+        If you're also interested, or if you like my works (which are all currently in progress and unpublished right now, so I don't think you would 😜), please feel free to reach out to collaborate 🐕
 
     design:
       columns: '1'
