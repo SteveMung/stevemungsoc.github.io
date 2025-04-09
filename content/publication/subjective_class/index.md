@@ -33,6 +33,7 @@ summary: We use a belief network approach to examine the correlation between sub
 tags:
 - Cultural Networks
 - Social Stratification
+- Cross-national Comparison
 - Cognition
 featured: false
 
