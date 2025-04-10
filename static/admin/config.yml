@@ -3,6 +3,7 @@ backend:
   repo: SteveMung/stevemungsoc.github.io
   branch: main
   open_authoring: true
+  publish_mode: editorial_workflow
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
