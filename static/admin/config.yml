@@ -2,7 +2,7 @@ backend:
   name: github
   repo: stevemung/stevemungsoc.github.io
   branch: main
-  open_authoring: true
+  # open_authoring: true
   publish_mode: editorial_workflow
 
 media_folder: "static/uploads"
