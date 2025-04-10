@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: SteveMung/stevemungsoc.github.io
+  repo: stevemung/stevemungsoc.github.io
   branch: main
   open_authoring: true
   publish_mode: editorial_workflow
@@ -15,6 +15,12 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Body
+        name: body
+        widget: markdown
