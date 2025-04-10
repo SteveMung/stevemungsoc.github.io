@@ -5,5 +5,3 @@ comments: true
 ---
 
 This is the first official post on this blog, for the purpose of testing. Stay tuned for more!
-
-{{ template "_internal/disqus.html" . }}

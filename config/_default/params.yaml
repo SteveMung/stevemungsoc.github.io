@@ -58,10 +58,15 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  comment:
+    provider: 'disqus'
+    disqus:
+      shortname: 'stevemung'
+      show_count: true
 
 # Comments
-services:
-  disqus:
-    shortname: stevemung
-  types:
-    - post
+#services:
+#  disqus:
+#    shortname: stevemung
+#  types:
+#    - post
