@@ -1,6 +1,7 @@
 ---
 title: 'Microsimulation Interpretation for Binary, Multinomial, Ordered and Continuation Logit Models: A Test Case for AI'
 projects: ['current']
+tags: ['current-project']
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

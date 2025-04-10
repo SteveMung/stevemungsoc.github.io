@@ -11,13 +11,15 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Ongoing / Selected Projects
+      text: Here are some projects that I am/have been working on. Please contact me if you're interested!
       filters:
         folders:
           - project
+          - publication
+        tags: ['current-project']
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---

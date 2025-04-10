@@ -1,6 +1,7 @@
 ---
 title: "The Moon or Sixpence? A Network Approach into Work Value Stratification"
 projects: ['current']
+tags: ['current-project']
 
 authors:
 - admin

@@ -1,6 +1,7 @@
 ---
 title: "What Constitutes a Subjective Class? A Comparative Study on 59 Countries"
 projects: ['current']
+tags: ['current-project']
 
 authors:
 - Felicia F. Tian
