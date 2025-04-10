@@ -60,10 +60,8 @@ features:
     enable: false
 
 # Comments
-comments:
-  provider: 'disqus'
+services:
   disqus:
-    shortname: 'stevemung'
-  enable: true
+    shortname: stevemung
   types:
     - post
