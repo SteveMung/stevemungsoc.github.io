@@ -74,6 +74,17 @@ sections:
     design:
       view: article-grid
       columns: 1
+  - block: collection
+    id: featured-posts
+    content:
+      title: Featured Posts
+      filters:
+        folders:
+          - post
+        featured_only: true
+    design:
+      view: card
+      columns: 2
 #  - block: collection
 #    id: news
 #    content:
