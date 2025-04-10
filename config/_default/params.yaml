@@ -64,4 +64,6 @@ comments:
   provider: 'disqus'
   disqus:
     shortname: 'stevemung'
-  enable: false
+  enable: true
+  types:
+    - post
