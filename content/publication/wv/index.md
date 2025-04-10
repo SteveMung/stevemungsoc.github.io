@@ -1,5 +1,7 @@
 ---
 title: "The Moon or Sixpence? A Network Approach into Work Value Stratification"
+projects: ['current']
+
 authors:
 - admin
 date: "2025-08-08T00:00:00Z"
