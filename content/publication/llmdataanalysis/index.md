@@ -86,4 +86,5 @@ projects:
 slides: ''
 ---
 
+The extended abstract of the initial version of this project is accepted for presentation at the 11ICSSM conference (ISA RC33, Naples, Italy) to the session: "50-The Utilization of AI-Powered Tools in Social Research: Opportunities, Implications and Prospects". --Apr. 11, 2025
 
