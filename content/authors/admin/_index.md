@@ -64,7 +64,7 @@ profiles:
 #    summary: |
 interests:
   - Social Network Analysis
-  - Computational Cultural Sociology
+  - Computational Sociology of Culture
   - Social Stratification & Inequality
   - Advanced Quantitative Methods in Sociology
 
@@ -126,7 +126,7 @@ skills:
     items:
       - name: Singing
         description: ''
-        percent: 60
+        percent: 100
         icon: microphone
       - name: Cats and Dogs
         description: ''
