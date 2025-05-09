@@ -35,6 +35,7 @@ This may seem like a long, rambling list of names, but it is what I feel most mo
     Your pain and your hunger, they're drivin' you home
     And freedom, oh freedom, well, that's just some people talkin'
     Your prison is walkin' through this world all alone"
+    --Desperado, by Eagles
 
 似乎不知哪天起，没有什么力气去思索自己以后一定要怎样怎样，但又被所谓不知从何缘起的“学术理想”吊在半空。很难描述的一种感觉。和一年前的自己完全不同了，有些麻木。好处是，不再火急火燎地给自己下达死命令，并且开始相信缘分，“命里有时终须有”。保持努力，保持关切，保持有一个远方的理想在那里。坏处是，总感觉自己越来越虚幻，少了一种对自我认知的真实感。自己的24小时似乎都被一些真实的新知识、对社会学的某些东西的思考（美其名曰思考，实际我也不知其功利性是否占了大头），以及无意义的消遣占据，而很少去想我到底为什么要这样做，身边的很多人很多事也不再过脑子了。跟Yvonne因为以这一现象为本质的一些实际交际中的后果闹过不开心。
 
